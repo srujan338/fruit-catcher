@@ -61,10 +61,10 @@ class Game{
                       
                          
                      }
-                    //   textSize(25);
-                    //   fill("black")
-                    //   stroke(5)
-                    //   text(allPlayers[plr].name,x-25,y+25); 
+                       textSize(25);
+                       fill("black")
+                       stroke(5)
+                       text(allPlayers[plr].name,x-25,y+25); 
                     
                     //   textSize(25);2
                     //   fill("white");
